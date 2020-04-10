@@ -1,0 +1,28 @@
+.meta {
+    margin-top: 180px;
+text-align: center;
+font-family:STHeiti;
+}
+.aplayer-wrap {
+width: 600px;
+max-width: 100%;
+margin: 0 auto;
+font-family: Serif;
+}
+.landing-buttons {
+text-align: center;        	
+}
+.landing-button {
+    border: 1px solid #ccc;
+    border-radius: 33px;
+    padding: 10px 30px;
+    background-color: white;
+    display: inline-block;
+    margin-top: 20px;
+    color: #333;
+}
+
+.footer {
+text-align: center;
+font-size: 12px
+}
