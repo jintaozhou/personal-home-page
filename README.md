@@ -13,9 +13,8 @@
 2. 修改index.html文件
 3. 修改域名
 
-🎉demo: [nowfitness的个人主页](http://59.110.157.156/)
+🎉demo: [fitnesscoder的个人主页](www.fitnesscoder.top)
 
-🎉[myblog](https://www.nowfitness.top/)
 
 另附运行效果图：
 
